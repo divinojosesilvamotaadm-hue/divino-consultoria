@@ -16,8 +16,8 @@ O site apresenta soluções práticas para problemas reais, focado em:
 
 ## 📬 Contato
 Estou localizado em Santo Antônio do Descoberto - GO e atendo toda a região e online.
-- **WhatsApp:** [Falar com Divino](https://wa.me/5561995807599)
-- **LinkedIn:** [Seu link aqui, se tiver]
+- **WhatsApp:** (https://wa.me/5561995807599)
+
 
 ---
 *Este projeto está hospedado via GitHub Pages.*
